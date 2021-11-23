@@ -51,7 +51,7 @@ We aim to respond to applications within a week, but due to the large number of 
 
 ## NFT Market <a href="exchange" id="exchange"></a>
 
-[Apply to list](nft-market-applications.md#apply-for-nft-market-listing)
+[Apply to list](broken-reference)
 
 ## Listing on the Exchange <a href="exchange" id="exchange"></a>
 
@@ -75,10 +75,10 @@ Due to PancakeSwap’s nature as an AMM-based DEX, we’re not able to prevent t
 
 ### People get an error when trading my token. What can I do?
 
-Check our [Troubleshooting page](../help/troubleshooting.md) for a list of common errors on the exchange, and how to solve them.
+Check our [Troubleshooting page](broken-reference) for a list of common errors on the exchange, and how to solve them.
 
 ## Something else
 
-You can shoot us an email at pancakeswap@gmail.com if the above parts don't cover your questions.
+You can shoot us an email at hextech@tutanota.com if the above parts don't cover your questions.
 
 Please don't try to contact us via this email for [customer support](customer-support.md), that's not what it's for and we won't respond: your best option for getting help with the product is via the [Telegram or Reddit community](telegram.md).
