@@ -1,7 +1,5 @@
 # Hextech Intro
 
-![](<.gitbook/assets/masthead-twitter-3- (1) (1).png>)
-
 ## ↔️ Trade
 
 > Instantly swap crypto tokens: no registration or account needed.

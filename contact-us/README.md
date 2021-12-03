@@ -1,8 +1,6 @@
 # Contact Us
 
-![](../.gitbook/assets/docs-masthead-20-.png)
 
-####
 
 #### Business Contacts
 

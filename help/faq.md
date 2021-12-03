@@ -1,41 +1,24 @@
 # General FAQ
 
-![](../.gitbook/assets/docs-masthead-17-.png)
+This FAQ page answers some of the more commonly asked questions from the Hextech community.
 
-This FAQ page answers some of the more commonly asked questions from the PancakeSwap community.
+## Is Hextech safe? Has Hextech been Audited?
 
-## Is PancakeSwap safe? Has PancakeSwap been Audited?
 
-See for yourself:
 
-* Check out these PancakeSwap security audits: 
-  * [Certik’s security audit of PancakeSwap](https://www.certik.org/projects/pancakeswap) and [Certik's Shield insurance](https://shield.certik.foundation)
-  * [Slowmist's security audit of PancakeSwap](https://github.com/slowmist/Knowledge-Base/blob/master/open-report/Smart%20Contract%20Security%20Audit%20Report%20%20-%20PancakeSwap.pdf)
-  * [Slowmist's Auto-CAKE Pool security audit](https://github.com/slowmist/Knowledge-Base/blob/master/open-report/Smart%20Contract%20Security%20Audit%20Report%20-%20CakeVault.pdf)
-  * [Peckshield's Lottery V2 Audit](https://github.com/peckshield/publications/blob/master/audit_reports/PeckShield-Audit-Report-PancakeswapLottery-v1.0.pdf)
-  * [Slowmist's Lottery V2 Audit](https://github.com/slowmist/Knowledge-Base/blob/master/open-report/Smart%20Contract%20Security%20Audit%20Report%20-%20PancakeSwap%20Lottery.pdf)
-* Transparent:
-  * We’re built on open-source software: our site and all our Smart Contracts are publicly visible for maximum transparency. 
-  * Our contracts are verified on BscScan so you know that what you see is what you get: [1](https://bscscan.com/address/0x10ED43C718714eb63d5aA57B78B54704E256024E) [2](https://bscscan.com/address/0x73feaa1ee314f8c655e354234017be2193c9e24e#code) [3](https://bscscan.com/address/0xbcfccbde45ce874adcb698cc183debcf17952812) [4](https://bscscan.com/address/0x1b96b92314c44b159149f7e0303511fb2fc4774f#code) [5](https://bscscan.com/address/0x92E8CeB7eAeD69fB6E4d9dA43F605D2610214E68) 
-* Security best practices:
-  * The chefs use multisig for all contracts.
-  * Our contracts’ time-lock gives you peace of mind.
+*   Transparent:
 
-## How can I stake CAKE?
+    * We’re built on open-source software: our site and all our Smart Contracts are publicly visible for maximum transparency.
 
-You can stake your CAKE in PancakeSwap Syrup Pools. Visit the [Syrup Pools page](https://pancakeswap.finance/pools).
 
-Read our [How to Stake in Syrup Pools guide](https://docs.pancakeswap.finance/products/syrup-pool/syrup-pool-guide) if you'd like a hand getting started with staking.
+*   Security best practices:
 
-## What is the difference between staking and farming?
+    * We use multisig for all contracts
 
-Staking in Syrup Pools and farming with Yield Farming are both ways to earn more CAKE by supporting PancakeSwap.
 
-Staking only needs some CAKE to be added to a Syrup Pool to earn CAKE or other tokens.\
-[Learn more about Syrup Pool staking.](https://docs.pancakeswap.finance/products/syrup-pool)
+* No audit yet but as a fork of PancakeSwap we follow the best guidelines in terms of security
 
-Farming is more complicated and needs LP Tokens to earn CAKE.\
-[Learn more about Yield Farming.](https://docs.pancakeswap.finance/products/yield-farming)
+
 
 ## How do I farm?
 
@@ -109,23 +92,8 @@ You can check the analytics of PancakeSwap by click on the "Analytics" tab on th
 
 Analytics: [https://pancakeswap.info/](https://pancakeswap.info)
 
-## Is PancakeSwap protected from flashloan attacks?
 
-PancakeSwap's vault has anti-flashloan protection. PancakeSwap’s CAKE token isn’t vulnerable to flash loan attacks. Unlike vulnerable tokens, CAKE token minting is predefined, and can’t be adjusted in a single transaction. Ownership cannot be transferred outside of MasterChef contract.
-
-PancakeSwap’s other smart contracts, like IFO and AutoPool, are protected as well; they prevent other contracts from interacting with them, reducing the scope of vector attacks.
-
-## Can I join the PancakeSwap team?
-
-Check the [Become a Chef](https://docs.pancakeswap.finance/hiring/become-a-chef) area for information on open positions we're looking to fill.
-
-We advertise new positions we're looking to fill on our [official social media channels](https://docs.pancakeswap.finance/contact-us/telegram), so be sure to follow us to get the latest hiring information.
-
-## What is SYRUP?
-
-SYRUP was a part of the staking process earlier in PancakeSwap's life. SYRUP was discontinued when a security issue was discovered and is no longer a part of PancakeSwap.
 
 ## I can't find an answer for my question. Where do I find an answer?
 
 If you can't find what you're looking for in PancakeSwap's documentation, ask your question on [PancakeSwap's official social media platforms](https://docs.pancakeswap.finance/contact-us/telegram) and someone will do their best to help you out.
-

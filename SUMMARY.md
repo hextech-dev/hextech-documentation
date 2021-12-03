@@ -4,8 +4,8 @@
 * [Get Started](get-started/README.md)
   * [Create a Wallet](get-started/wallet-guide.md)
   * [Get BEP20 Tokens](get-started/bep20-guide.md)
-  * [Using PancakeSwap without Centralized Exchanges](get-started/using-pancakeswap-without-centralized-exchanges.md)
-  * [Connect Your Wallet to PancakeSwap](get-started/connection-guide.md)
+  * [Using Hextech without Centralized Exchanges](get-started/using-pancakeswap-without-centralized-exchanges.md)
+  * [Connect Your Wallet to Hextech](get-started/connection-guide.md)
 * [Click Here for Help](help/README.md)
   * [General FAQ](help/faq.md)
   * [Fixing Stuck Pending Transactions on MetaMask](help/unsticking-a-transaction-stuck-as-pending-with-metamask.md)
@@ -34,7 +34,7 @@
   * [Hextech Tokenomics](tokenomics/cake/cake-tokenomics.md)
   * [Hextech supply](tokenomics/cake/hextech-supply.md)
 
-## Developers <a href="code" id="code"></a>
+## Developers <a href="#code" id="code"></a>
 
 * [Contributing](code/contributing/README.md)
   * [Codebase Overview](code/contributing/codebase-overview.md)
